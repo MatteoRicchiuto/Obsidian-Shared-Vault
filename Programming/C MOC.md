@@ -36,13 +36,14 @@ GitHub Repositories : [My C Learning Diary]() [UniNotes]()
 
 **Operators:**
 - [[C Arithmetic Operators]]
+- [[C Increment and Decrement Operators]]
 - [[C Assignment Operators]]
 - [[C Comparison Operators]]
 - [[C Logical Operators]]
 - [[C Bytwise Operators]]
 
 **Control Flow:**
-- [[C if Else]]
+- [[C if else]] <--
 - [[C Switch]]
 - [[C While Loops]]
 - [[C For Loops]]
