@@ -27,7 +27,7 @@ GitHub Repositories : [My C Learning Diary]() [UniNotes]()
 - [[C Format Specifiers]]
 - [[C Booleans]]
 ---
-- [[C Numbers]]
+- [[C Numbers]] <--
 - [[C Num Type Conversion]]
 ---
 - [[C Chars]]
