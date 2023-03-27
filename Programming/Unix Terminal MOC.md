@@ -3,4 +3,4 @@
 
 
 
-[[My_Scripts]]
+[[My_Terminal_Scripts]]

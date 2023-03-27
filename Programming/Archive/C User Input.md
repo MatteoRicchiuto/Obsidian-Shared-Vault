@@ -3,7 +3,8 @@ Created: March 22, 2023
 Tags: [[C MOC]], [[Programming HUB]]
 
 ---
-## Singular Input 
+# Scanf()
+
 To get **user input**, you can use the `scanf()` function, example:
 ```C
 // Create an integer variable that will store the number we get from the user  
@@ -20,8 +21,8 @@ printf("Your number is: %d", myNum);
 ```
 
 - The `scanf()` function takes two arguments: 
-	- the **format specifier** of the variable (`%d` ) 
-	- the **reference operator** (`&myNum`), which stores the [memory address](obsidian://open?vault=Main%20Vault&file=C%20Memory%20Address) of the variable.
+	- the **[[C Format Specifiers]]** of the variable (`%d` ) 
+	- the **[[C Variables And Constants]]** 
 
 ---
 ## Multiple Input

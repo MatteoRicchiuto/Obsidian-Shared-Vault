@@ -1,13 +1,13 @@
 
-Main MOC: [[Programming]]
+Main MOC: [[Programming HUB]]
 Class: [[Programmazione Calcolatori (Class)]]
-GitHub Repositories : [My Python Learning Diary]() [UniNotes]()
+GitHub Repositories : [My C Learning Diary]() [UniNotes]()
 
 ---
 # What is C?
-- 
+
 **It is used for:**
-- 
+ 
 
 ## Difference between C and C++
 - [[C++]] was developed as an extension of C, and both languages have almost the same syntax
@@ -18,14 +18,19 @@ GitHub Repositories : [My Python Learning Diary]() [UniNotes]()
 - [[C Sintax]]
 - [[C Comments]]
 - [[C Output]]
+- [[C Escaping Sequences]]
 - [[C User Input]]
 
 **Data Types:**
-- [[C Variables]]
+- [[C Variables And Constants]]
 - [[C Data Types]]
 - [[C Format Specifiers]]
 - [[C Booleans]]
+---
 - [[C Numbers]]
+- [[C Num Type Conversion]]
+---
+- [[C Chars]]
 - [[C Arrays]]
 - [[C Strings]]
 

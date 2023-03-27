@@ -1,19 +1,30 @@
+Completed: Yes
+Created: March 26, 2023
 Tag: [[C MOC]], [[Programming HUB]]
 
 ---
-In C programming, a format specifier is a special character that is used to specify the type of data that will be printed or read in a formatted input/output operation. 
+In C programming, a format specifier is a **special character that is used to specify the type of data that will be printed or read** in a formatted input/output operation. 
 
-Format specifiers are used in conjunction with the printf() and scanf() functions to format the input and output of data.
+Format specifiers are used in conjunction with the [printf()](C%20Output) and [scanf()](C%20User%20Input) functions to format the input and output of data.
 
 **Here are some commonly used format specifiers in C:**
--   `%d` or `%i` - Used for integers, such as int.
--   `%f` - Used for floating-point numbers, such as *float* or *double*.
--   `%c` - Used for characters, such as *char*.
--   `%s` - Used for *strings*, such as ***char arrays or pointers***.
--   `%p` - Used for *pointers*, such as void*.
--   `%x` or `%X` - Used for *hexadecimal numbers*.
+| Type | Format Specifier |
+| --- |  --- |
+| int |%d, %i |
+| char | %c |
+| float |  %f |
+| double |  %lf |
+| short int  | %hd |
+| unsigned int | %u |
+| long int | %ld, %li |
+| long long int  | %lld, %lli |
+| unsigned long int | %lu |
+| unsigned long long int |  %llu |
+| signed char |  %c |
+| unsigned char |  %c |
+| long double |  %Lf |
 
-**printf() example:** [[C Output]]
+**printf() example:** 
 ```c
 int a = 10; 
 float b = 3.14;
@@ -22,7 +33,7 @@ printf("The value of a is %d and the value of b is %f", a, b);`
 ```
 In this code, the format specifiers %d and %f are used to print the integer and floating-point values of a and b, respectively.
 
-**scanf() example:**  [[C User Input]]
+**scanf() example:**
 ``` c
    int age;
    char name[20];
