@@ -7,6 +7,10 @@
 **Ide:**
 - [[VS Code]]
 - [[Vim]]
+- [[Vim Basics]]
+- [[Vim Config]]
+- [[Nvim]]
+
 
 
 **Useful:**
