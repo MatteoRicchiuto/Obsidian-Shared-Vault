@@ -22,11 +22,7 @@ The vault alredy has all the plugins that you need to use it.
 
 **Advanced:**
 - Creating a new note from a not existing but already defined note (using [Quick-add] plugin)
-![recording](/README_media/NewNote.mov)
-
-
-
-https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
+![recording|600](https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d)
 
 
 
