@@ -18,7 +18,7 @@ The vault alredy has all the plugins that you need to use it.
 
 **Base metods:**
 1. "cmd + n" --> new empty note
-2. "cmd + t" --> new note from templates ([Quick-add] plugin)
+2. "cmd + t" --> new note from templates ([quickadd plugin](https://github.com/chhoumann/quickadd))
 
 **Advanced:**
 - Creating a new note from a not existing but already defined note (using [Quick-add] plugin)
