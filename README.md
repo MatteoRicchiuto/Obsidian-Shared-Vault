@@ -14,7 +14,8 @@ The vault alredy has all the plugins that you need to use it.
 4. "cmd + shift + d" --> Toggle left side bar
 5. "cmd + w" --> Close current tab
 6. "cmd + p" --> Open command palette
-7. "option + 
+7. "option + ← (left arrow)" --> Navigate back
+8. 7. "option + ← (right arrow)" --> Naviate forward
 
 ## Work-Flows
 
