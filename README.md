@@ -22,7 +22,7 @@ The vault alredy has all the plugins that you need to use it.
 
 **Advanced:**
 - Creating a new note from a not existing but already defined note (using [Quick-add] plugin)
-![recording](/readme_media/NewNote.mov)
+![recording](/README_media/NewNote.mov)
 
 
 
