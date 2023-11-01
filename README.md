@@ -8,14 +8,17 @@ The vault alredy has all the plugins that you need to use it.
 
 
 ## HotKeys
-1. "cmd + s" --> Show search
+1. "cmd + s" --> Search in all files
 2. "cmd + shift + s" --> Show file explorer
-3. "cmd + d" --> Toggle right side bar
-4. "cmd + shift + d" --> Toggle left side bar
-5. "cmd + w" --> Close current tab
-6. "cmd + p" --> Open command palette
-7. "option + ← (left arrow)" --> Navigate back
-8. 7. "option + ← (right arrow)" --> Naviate forward
+3. "cmd + f" --> Search current file
+4. Wcmd + shift + f" --> Search and replace in current file
+5. "cmd + d" --> Toggle right side bar
+6. "cmd + shift + d" --> Toggle left side bar
+7. "cmd + w" --> Close current tab
+8. "cmd + p" --> Open command palette
+9. "option + ← (left arrow)" --> Navigate back
+10. "option + → (right arrow)" --> Navigate forward
+
 
 ## Work-Flows
 
