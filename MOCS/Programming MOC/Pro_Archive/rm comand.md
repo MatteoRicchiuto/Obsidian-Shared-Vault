@@ -1,1 +1,0 @@
-rm *.pdf --> removes all the file in the directory that have .pdf as file extencion

@@ -1,6 +1,0 @@
----
-Created: 
-Related: 
-Completed:
----
----
