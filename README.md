@@ -8,7 +8,7 @@ The vault alredy has all the plugins that you need to use it.
 
 
 ## HotKeys
-1. "cmd + s" --> Search in all files
+1. "```cmd``` + ```s```" --> Search in all files
 2. "cmd + shift + s" --> Show file explorer
 3. "cmd + f" --> Search current file
 4. Wcmd + shift + f" --> Search and replace in current file
