@@ -7,7 +7,7 @@ The vault alredy has all the plugins that you need to use it.
 
 
 
-## HotKeys
+## Hot-Keys
 | Key                                       | Description   |
 | ----------------------------------------- | ------------- |
 | ```cmd``` + ```s``` | Search in all files |
