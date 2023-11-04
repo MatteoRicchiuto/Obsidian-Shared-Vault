@@ -8,16 +8,18 @@ The vault alredy has all the plugins that you need to use it.
 
 
 ## HotKeys
-1. ```cmd``` + ```s```" --> Search in all files
-2. ```cmd``` + ```shift``` + ```s``` --> Show file explorer
-4. ```cmd``` + ```shift``` + ```f``` --> Search and replace in current file
-3. ```cmd``` + ```f``` --> Search current file
-5. ```cmd``` + ```d``` --> Toggle right side bar
-6. ```cmd``` + ```shift``` + ```d``` --> Toggle left side bar
-7. ```cmd``` + ```w``` --> Close current tab
-8. ```cmd``` + ```p``` --> Open command palette
-9. ```option``` + ```←``` (left arrow) --> Navigate back
-10. ```option``` + ```→``` (right arrow) --> Navigate forward
+| key                                       | description   |
+| ----------------------------------------- | ------------- |
+| ```cmd``` + ```s``` | Search in all files |
+| ```cmd``` + ```shift``` + ```s``` | Show file explorer |
+| ```cmd``` + ```shift``` + ```f``` | Search and replace in current file  |
+| ```cmd``` + ```f``` |  Search current file |
+| ```cmd``` + ```d``` |  Toggle right side bar |
+| ```cmd``` + ```shift``` + ```d``` |  Toggle left side bar |
+| ```cmd``` + ```w`` |  Close current tab |
+| ```cmd``` + ```p``` |  Open command palette |
+| ```option``` + ```←``` (left arow)| Navigate back  |
+| ```option``` + ```→``` (right arrow)| Navigate forward |
 
 
 ## Work-Flows
@@ -32,10 +34,6 @@ The vault alredy has all the plugins that you need to use it.
 | ```cmd``` + ```n``` | Create new note |
 | ```cmd``` + ```shift``` | Create new note to the right |
 | ```cmd``` + ```t``` | Create new note from templates ([quickadd plugin](https://github.com/chhoumann/quickadd))  |
-
-1.  --> Create new note
-2. ```cmd``` + ```shift``` + ```n``` --> Create new note to the right
-3. ```cmd``` + ```t``` --> Create new note from templates ([quickadd plugin](https://github.com/chhoumann/quickadd))
 
 **Advanced metod:**
 - Creating a new note from a not existing but already defined note (using [quickadd plugin](https://github.com/chhoumann/quickadd))
