@@ -8,7 +8,7 @@ The vault alredy has all the plugins that you need to use it.
 
 
 ## HotKeys
-| key                                       | description   |
+| Key                                       | Description   |
 | ----------------------------------------- | ------------- |
 | ```cmd``` + ```s``` | Search in all files |
 | ```cmd``` + ```shift``` + ```s``` | Show file explorer |
@@ -29,7 +29,7 @@ The vault alredy has all the plugins that you need to use it.
 > All new note, files and media are initially saved in the [[To-Do]] folder, and later can be sorted in the right folders
 
 **Base metods:**
-| key                                       | description   |
+| Key                                       | Description   |
 | ----------------------------------------- | ------------- |
 | ```cmd``` + ```n``` | Create new note |
 | ```cmd``` + ```shift``` | Create new note to the right |
