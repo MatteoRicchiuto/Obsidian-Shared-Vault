@@ -16,7 +16,7 @@ The vault alredy has all the plugins that you need to use it.
 | ```cmd``` + ```f``` |  Search current file |
 | ```cmd``` + ```d``` |  Toggle right side bar |
 | ```cmd``` + ```shift``` + ```d``` |  Toggle left side bar |
-| ```cmd``` + ```w`` |  Close current tab |
+| ```cmd``` + ```w``` |  Close current tab |
 | ```cmd``` + ```p``` |  Open command palette |
 | ```option``` + ```←``` (left arow)| Navigate back  |
 | ```option``` + ```→``` (right arrow)| Navigate forward |
