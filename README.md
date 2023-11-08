@@ -20,6 +20,9 @@ The vault alredy has all the plugins that you need to use it.
 | ```cmd``` + ```p``` |  Open command palette |
 | ```option``` + ```←``` (left arow)| Navigate back  |
 | ```option``` + ```→``` (right arrow)| Navigate forward |
+| ```cmd``` + ```r``` | Load workspace layout |
+| ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
+
 
 
 ## Work-Flows
@@ -37,10 +40,22 @@ The vault alredy has all the plugins that you need to use it.
 
 **Advanced metod:**
 - Creating a new note from a not existing but already defined note (using [quickadd plugin](https://github.com/chhoumann/quickadd))
-
-
  
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
 
+## Workspce layouts
+
+**Create a new workspace layout:**
+1. Presa ```cmd``` + ```p``` to open command palette
+2. Search ```Workspace: Manage workspaces layouts```
+3. Create and save a new workspace layout
+
+**Load an existing layout:**
+-  Press ```cmd``` + ```r``` and choose the layout
+
+**Save and load another layout:**
+If you have alrady opened a layout, you can: 
+    - Save it: press ```cmd``` + ```shift``` + ```r```, than choose the layout that you have already opened
+    - Save and load a different one: press ```cmd``` + ```shift``` + ```r```, tham choose the layout that you want to open
 
 
