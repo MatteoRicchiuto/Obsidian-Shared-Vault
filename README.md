@@ -3,9 +3,7 @@ This is my obsidian repository that contains all my Uni and Coding related notes
 
 If you download this repository, you will be able to open it with obsidian. 
 
-The vault alredy has all the plugins that you need to use it.
-
-
+The vault already has all the plugins that you need to use it.
 
 ## Hot-Keys
 | Key                                       | Description   |
@@ -38,15 +36,15 @@ The vault alredy has all the plugins that you need to use it.
 | ```cmd``` + ```shift``` | Create new note to the right |
 | ```cmd``` + ```t``` | Create new note from templates ([quickadd plugin](https://github.com/chhoumann/quickadd))  |
 
-**Advanced metod:**
+**Advanced method:**
 - Creating a new note from a not existing but already defined note (using [quickadd plugin](https://github.com/chhoumann/quickadd))
 
 **Example:**
 
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
 
-## Workspce layouts
-> To use this worflow you have to turn on the ```Workspaces plugin``` in the core-plugins settings 
+## Workspace layouts
+> To use this workflow you have to turn on the ```Workspaces plugin``` in the core-plugins settings 
 
 **Create a new workspace layout:**
 1. Presa ```cmd``` + ```p``` to open command palette
@@ -58,7 +56,7 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32
 
 **Save and load another layout:**
 
-If you have alrady opened a layout, you can: 
+If you have already opened a layout, you can: 
 - Save it: press ```cmd``` + ```shift``` + ```r```, than choose the layout that you have already opened
 - Save and load a different one: press ```cmd``` + ```shift``` + ```r```, tham choose the layout that you want to open
 
