@@ -42,6 +42,7 @@ The vault alredy has all the plugins that you need to use it.
 - Creating a new note from a not existing but already defined note (using [quickadd plugin](https://github.com/chhoumann/quickadd))
 
 **Example:**
+
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
 
 ## Workspce layouts
@@ -62,6 +63,7 @@ If you have alrady opened a layout, you can:
 - Save and load a different one: press ```cmd``` + ```shift``` + ```r```, tham choose the layout that you want to open
 
 **Example:**
+
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-1982-47b5-8129-8d0247f871b7
 
 ---
