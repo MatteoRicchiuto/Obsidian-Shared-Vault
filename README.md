@@ -60,3 +60,6 @@ If you have alrady opened a layout, you can:
 - Save and load a different one: press ```cmd``` + ```shift``` + ```r```, tham choose the layout that you want to open
 
 
+---
+
+
