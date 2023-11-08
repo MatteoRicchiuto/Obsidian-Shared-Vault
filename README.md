@@ -59,7 +59,12 @@ If you have alrady opened a layout, you can:
 - Save it: press ```cmd``` + ```shift``` + ```r```, than choose the layout that you have already opened
 - Save and load a different one: press ```cmd``` + ```shift``` + ```r```, tham choose the layout that you want to open
 
+https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-1982-47b5-8129-8d0247f871b7
 
 ---
+
+
+
+
 
 
