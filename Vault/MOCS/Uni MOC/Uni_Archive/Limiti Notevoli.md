@@ -6,10 +6,6 @@ Type: #Uni/Notes
 Related: [[Limiti]], [[Basi Trigonometria]]
 
 ---
-Qui ci sono tutti i limiti notevoli che ho incontrato [[Significant limits tabel]]
-
----
-
 # Definizione
 - I limiti notevoli non sono altro che forme indeterminate di limiti molto comuni che ricorrono in molte funzioni.
 - Imparando "a memoria" la loro soluzione ci permetteranno di semplificare e risolvere 
@@ -20,7 +16,7 @@ Sono limiti le cui soluzione permettono di trovare i [[Limiti Notevoli#Limiti No
 $$\begin{align}
 & \textcolor{orange}{1)}\ \ \ \lim_{ n \to 0 }{}\frac{\sin x}{x}=1  \\
 &  \\
-& \textcolor{orange}{2)}\ \ \ \lim_{ n \to \infty } (1+\frac{1}{x})^x = e
+& \textcolor{orange}{2)}\ \ \ \lim_{ n \to \infty } (1+\frac{A}{a_{n}})^{a_{n}} = e^A
 \end{align}$$
 **oss:** e = numero di nepero = 2,718...
 

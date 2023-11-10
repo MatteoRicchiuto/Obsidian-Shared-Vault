@@ -18,11 +18,11 @@ Completed: false
 $se \ \ \textcolor{orange}{a_{n}\to 0}\ \text{ allora:}$
 1. $a^{a_{n}}-1\to 0$
 2. $\log_{e}(a_{n})\to 0$ 
-3. $sen(a_{n})\to_{0}$
+3. $sen(a_{n})\to 0$
 4. $tg(a_{n})\to 0$
-5. $arcsen(a_{n})\to_{0}$
+5. $arcsen(a_{n})\to 0$
 6. $arctg(a_{n})\to 0$
-7. $1-cos(a_{n})\to 0$
+7. $1-cos(a_{n})\to 0$    *oss:* $cos(a_{n})\to 1$
 
 **Quindi:**
 1. $a^{a_{n}}-1 \backsimeq a_{n}$
@@ -31,7 +31,7 @@ $se \ \ \textcolor{orange}{a_{n}\to 0}\ \text{ allora:}$
 4. $tg(a_{n})\backsimeq a_{n}$
 5. $arcsen(a_{n})\backsimeq a_{n}$
 6. $arctg(a_{n})\backsimeq a_{n}$
-7. $1-cos(a_{n})\backsimeq a_{n}$
+7. $1-cos(a_{n})\backsimeq \frac{{a_{n}}^2}{2}$ 
 
 ---
 ## Teoremi
@@ -48,5 +48,5 @@ $se \ \ \textcolor{orange}{a_{n}\to 0}\ \text{ allora:}$
 >dove: 
 >	- $a_{n}\to 0$
 
-
 ---
+

@@ -38,6 +38,19 @@ if you want to print a string directly from the print function you can open a st
 print("I'm Matteo's computer") 
 print('The computer said: "I am the computer of Matteo"')
 ```
+
+**\*args use:**
+you can print all the element in a iterable object 
+```python
+L = ["Ciao", "Hello", "Hola"]
+print(L)   #Output: ["Ciao", "Hello", "Hola"]
+print(*L)  #Output: Ciao Hello Hola
+
+#OSS: its the same thing of a for
+#    for e in L:
+#        print(e, end='')   #Output: Ciao Hello Hola
+```
+
 ---
 # All the different ways of printing a string 
 

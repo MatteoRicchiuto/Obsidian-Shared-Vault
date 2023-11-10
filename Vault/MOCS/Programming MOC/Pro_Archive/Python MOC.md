@@ -37,25 +37,35 @@ GitHub Repositories : [My Python Learning Diary](https://github.com/MatteoRicchi
 - [[Python Membership operators]]
 - [[Python Bitwise operators]]
 
-**Control Flow:**
-- [[Python Iterators, __iter__ and __next__]] <--
+**Control Flow:** 
 - [[Python if Else]]
 - [[Python While Loops]]
 - [[Python For Loops]]
 
+**Object Oriented Programming:** [[Python OOP]] [link](https://www.programiz.com/python-programming/object-oriented-programming)
+- [[Python Objects and Classes]] [link](https://www.programiz.com/python-programming/class)
+- [[Python Inheritance]] [link](https://www.programiz.com/python-programming/inheritance) [link2](https://www.programiz.com/python-programming/multiple-inheritance)
+- [[Python Operator Overloading]]  [link](https://www.programiz.com/python-programming/operator-overloading)
+- [[Python Iterators, __iter__ and __next__]]
+- [[Python Generators]] 
+
+
 **Other:**
 - [[Python Functions - Methods]]
+- [[Python Files]] <-- fai guarda vault flavio
 - [[Python Lamda]]
 - [[Python Classes/Objects]]
 - [[Introduzione semplicistica alla complessità algoritmica in python]]
 - [[Python Backslash (escaping character)]]
-- [[Python Files]]
 - [[Python f-string]]
 - [[Python Raw String]]
 - [[Python Casting]]
+- [[Python mac]]
 
 **Modules:**
 [[Python math module]]
 [[Python time module]]
 [[Python os module]]
 [[Python calendar module ]]
+
+

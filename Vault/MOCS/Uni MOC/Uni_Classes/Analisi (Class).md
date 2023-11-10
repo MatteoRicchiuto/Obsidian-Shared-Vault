@@ -30,7 +30,7 @@ Elia: https://eliabombardelli.com/videolezioni-matematica
  
 #### 4. Successioni 
 - [[Successioni Reali]]
-- [[Limiti di Successioni]]
+- [[Limiti di successioni]]
 - [[Successioni Monotone]]
 - [[Numero di Nepero]]
 - [[Limite superiore e inferiore]]

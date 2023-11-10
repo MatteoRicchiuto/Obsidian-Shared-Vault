@@ -21,7 +21,7 @@ La codifica modulo e segno è il metodo più semplice e immediato per la rappres
 
 Ma non è utilizzata inutilizzata quanto [[Codifica complemento a due]] infatti:
 - Rappresentazione ambigua delle zero (leggi: [[#Intervalli di rappresentazione|doppia rappresentazione dello 0]])
-- Impossibile effettuare somma e sottrazione con lo stesso [[Circuiti Addizionatori]]
+- Impossibile effettuare somma e sottrazione con lo stesso [[Circuiti Aritmetici]]
 
 ---
 ## Bit di segno

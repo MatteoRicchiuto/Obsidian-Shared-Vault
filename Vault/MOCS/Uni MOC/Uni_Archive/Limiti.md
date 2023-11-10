@@ -11,9 +11,23 @@ Completed:
 ---
 ---
 ## Indice:
+**Limiti di secessioni:** [[Limiti di successioni|link]]
+	- [[#Definizione limite di una successione]]
+	- [[Limiti notevoli di Successioni-->0]]
+	- [[Operazioni tra successioni limitate e illimitate]]
+
+**Limiti di una funzione:** [[Limiti di funzioni|link]]
+	- [[#Definizione limite di una funzione]]
+	- [[Teorema ponte]]
+	- [[Limiti di funzioni-->-∞]]
+
 **Basi:**
-[[Punto di accumulazione]] (aperti, chiusi)
-- [[Limiti#Definizione di limite|Definizione di limite]]
+- [[Forme Indeterminate dei Limiti]]
+- [[Gerarchia degli infiniti]]
+
+
+
+- [[Punto di accumulazione]] (aperti, chiusi)
 - [[Intorni]]
 - [[Asintoti]]
 - [[Punti di discontinuità]]
@@ -23,11 +37,10 @@ Completed:
 **Proprietà:**
 - [[Algebra dei limiti]]
 - [[Calcolo dei limiti per sostituzione diretta]] <--
-- [[Forme Indeterminate dei Limiti]]
+- 
 
-- [[Gerarchia degli infiniti]]
+- 
 - [[Limiti Notevoli]]
-- [[Limiti notevoli di Successioni-->0]]
 
 **Tipi:**
 - [[Limiti di Funzioni Polinomiali]]
@@ -47,21 +60,11 @@ Completed:
 - [[Limiti con Taylor]] <-- studiare prima derivate
 
 ---
-## Definizione di limite
-- Calcolare il limite di una funzione equivale a determinare cosa accade ai valori della funzione man-mano che ci si avvicina a un certo numero reale, o si va a +∞ o -∞
 
-###### **Definizione Formale di limite che tende a un valore finito:**
-$$Sia\ \ f:A\subseteq \mathbb{R} \to \mathbb{R}\ \ \ e \ sia \ \ \ X_{0}\in \mathbb{R} \text{ un punto di accumolazione di A. Si dice che:} $$
-$$\begin{align}
-& \lim_{ n \to x_{0} } f(x) = L  \\
-& \\
-& dove \ \ L\in \mathbb{R}
-\end{align} $$
-$$\begin{align}
-& \text{Se, per ogni intorno }\ V(L,\delta)\ \text{ esiste un intorno }\ U(x_{0}, \varepsilon)\ \ t.c: \\
-& \\
-&x\in U(x_{0}, \varepsilon) \cap A \setminus\{x_{0}\} \implies f(x)\in V(L,\delta)
-\end{align}$$
-![[Screenshot 2023-05-19 at 15.00.56.png]]
+---
+## Definizione limite di una successione 
 
+$${a_{n}\to L}_{n\to +\infty}\implies \forall \epsilon>0 \ \ \exists$$ 
+***da finire***
+---
 

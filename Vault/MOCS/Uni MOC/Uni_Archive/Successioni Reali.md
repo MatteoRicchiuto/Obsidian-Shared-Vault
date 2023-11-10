@@ -13,7 +13,8 @@ Type: #Uni/Notes
 1. [[#Definizioni Utili]]
 
 **Altro:**
-- [[Limiti di Successioni]]
+- [[Successioni limitate e illimitate]]
+- [[Limiti di successioni]]
 - [[Successioni Monotone]]
 - [[Numero di Nepero]]
 - [[Sotto-successioni]]
@@ -57,13 +58,7 @@ $$\{a_{0},a_{1},a_{2}, \dots ,a_{n},\dots \} \in R$$
 
 ---
 ## Definizioni Utili:
-1. **Successione_Limitata_Inferiormente:**
-$$\text{Se esiste } ~m\in \mathbb{R} ~~ t.c. ~~ a_{n}\geq m ~~\forall n\in \mathbb{N}  $$
-2. **Successione_Limitata_Superiormente:**
-$$\text{Se esiste } ~M\in \mathbb{R} ~~ t.c. ~~ a_{n}\leq M ~~\forall n\in \mathbb{N}$$
-3. **Successione_Limitata:** 
-$$\text{Se esiste }~ m\in \mathbb{R} ~~ e ~~ M\in \mathbb{R} ~~ t.c. ~~ m \leq a_{n} \leq n ~~\forall n\in \mathbb{N}$$
-![[Screenshot 2023-05-19 at 11.22.55.png]]
+
 
 4. Si dice che una successione acquista una certa proprietà **definitivamente**:
 $$\text{Se esiste }~ N\in \mathbb{N}~~ t.c. ~~ a_{n}~~ \text{soddisfa una determinata proprietà }~ \forall n \geq N $$

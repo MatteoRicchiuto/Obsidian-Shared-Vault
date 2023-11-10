@@ -20,9 +20,9 @@ Completed: false
 **Caratteristiche:**
 - È un [[Circuiti combinatori|circuito combinatorio]]
 - $n$ inputs --> $n^2$ outputs
-- La funzione del [[Circuito Decodificatore]] è l'opposta del [[Circuito Codificatore]]
+- La funzione del [[Circuito De-codificatore]] è l'opposta del [[Circuito Codificatore]]
 
-- Le linee in uscita danno il codice binario corrispondente al valore di ingresso 
+- Le linee in uscita danno saranno tutte 0 tranne quella nella posizione espressa (in binario) dalle linee di input
 ---
 ## Esempi
 **2-A-4:**
@@ -30,5 +30,5 @@ Completed: false
 
 **3-A-8:**
 ![[Screenshot 2023-10-30 at 12.05.27.png|600]]
-
+![[Screenshot 2023-11-02 at 10.01.09.png|600]]
 ---

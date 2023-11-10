@@ -6,6 +6,14 @@ Type: #Uni/Notes
 Tag: [[Condizioni di Esistenza]]
 
 ---
+## Indice
+1. [[#Definizione]]
+2. [[#Condizioni di esistenza]]
+3. [[#Teorema dei Radicali]]
+4. [[#Radicali come potenze con esponente fratto]]
+5. [[#Proprietà]]
+
+---
 ## Definizione 
 $$
 \sqrt[n]{a}
@@ -21,6 +29,13 @@ $$ se~~n~~pari:~~ \sqrt[n]{a} \iff b^n=a,~~con~~a\ge 0,~~ b\ge0 $$
 
 **Esempio:**
 $$ \sqrt{-64}~~non~~esiste,~~mentre~~\sqrt[3]{-64}=-4 $$
+---
+## Condizioni di esistenza
+$$\sqrt[a]{x}:\ C.E.= \begin{cases}
+x \in \mathbb{R}_{\geq0}\ \ \ se\ a\ pari \\
+x \in \mathbb{R}\ \ \ \ \ \ se\ a\ dispari
+\end{cases}$$
+
 
 ---
 ## Teorema dei Radicali 

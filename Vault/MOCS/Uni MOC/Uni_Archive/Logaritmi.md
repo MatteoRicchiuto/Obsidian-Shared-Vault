@@ -16,7 +16,13 @@ $$
 $$
 ---
 ## Condizioni di esistenza
-https://www.youmath.it/domande-a-risposte/view/6656-dominio-logaritmo.html
+
+$$\log_{f(x)}[g(x)]: C.E
+\begin{cases}
+   f(x)>0 \\
+   f(x)\neq 1 \\
+   g(x)>0
+\end{cases} $$
 
 ---
 ## Sintassi 

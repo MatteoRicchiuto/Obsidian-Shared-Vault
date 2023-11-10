@@ -30,7 +30,7 @@ Completed: true
 ## Definizione
 Il **complemento a due**, o **complemento alla base**, è il metodo più diffuso per la rappresentazione dei numeri con segno in informatica. 
 
-La sua enorme diffusione è data dal fatto che i circuiti di addizione e sottrazione non devono esaminare il segno di un numero rappresentato con questo sistema per determinare quale delle due operazioni sia necessaria, permettendo tecnologie più semplici e con maggiore precisione; si utilizza un solo circuito, il [[Circuiti Addizionatori]], sia per l'addizione che per la sottrazione.
+La sua enorme diffusione è data dal fatto che i circuiti di addizione e sottrazione non devono esaminare il segno di un numero rappresentato con questo sistema per determinare quale delle due operazioni sia necessaria, permettendo tecnologie più semplici e con maggiore precisione; si utilizza un solo circuito, il [[Circuiti Aritmetici]], sia per l'addizione che per la sottrazione.
 
 ---
 ## Vantaggi

@@ -7,7 +7,7 @@ Related: [[Funzioni]]
 
 ---
 ## Monotonia Globale
-Una funzione si dice montona se presenta sempre lo stesso andamento
+Una funzione si dice monotona se presenta sempre lo stesso andamento
 
 **Monotona Crescente:**
 $$\begin{align}
