@@ -60,7 +60,7 @@ These are all the **Comunity Plugins** that I use in my actual obsidian configur
 | Key                                       | Description   |
 | ----------------------------------------- | ------------- |
 | ```cmd``` + ```n``` | Create new note |
-| ```cmd``` + ```shift``` | Create new note to the right |
+| ```cmd``` + ```shift``` + ```n```| Create new note to the right |
 | ```cmd``` + ```t``` | Create new note from templates ([quickadd plugin](https://github.com/chhoumann/quickadd))  |
 
 **Advanced method:**
