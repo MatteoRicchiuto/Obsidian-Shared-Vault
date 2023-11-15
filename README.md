@@ -6,7 +6,15 @@ If you download this repository, you will be able to open it with obsidian.
 The vault already has all the plugins that you need to use it.
 
 ---
-## Index
+## Table of content
+- [Hot-Keys](#Hot-Keys)
+- [Plugins](#Plugins)
+- [Work-Flows](#Work-Flows)
+  1. [Crating New Notes](#Crating New Notes)
+  2. [Workspace Layouts](#Workspace Layouts)
+  3. [Folder Description](#Folder Description)
+  4. [Theme Customization](#Theme Customization)
+  5. [Tab Switching](#Tab Switching)   
 
 
 ---
@@ -62,7 +70,7 @@ These are all the **Comunity Plugins** that I use in my actual obsidian configur
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
 
 ---
-### Workspace layouts
+### Workspace Layouts
 > To use this workflow you have to turn on the ```Workspaces plugin``` in the core-plugins settings 
 
 **Create a new workspace layout:**
@@ -87,12 +95,13 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
 ### Folder Description
 
 ---
-### Theme Customization
-
----
 ### Tab Switching
 
 ---
+### Theme Customization
+
+---
+
 
 
 
