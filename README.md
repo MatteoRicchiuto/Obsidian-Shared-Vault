@@ -10,11 +10,11 @@ The vault already has all the plugins that you need to use it.
 - [Hot-Keys](#Hot-Keys)
 - [Plugins](#Plugins)
 - [Work-Flows](#Work-Flows)
-  1. [Crating New Notes](#Crating\ New\ Notes)
-  2. [Workspace Layouts](#Workspace\ Layouts)
-  3. [Folder Description](#Folder\ Description)
-  4. [Theme Customization](#Theme\ Customization)
-  5. [Tab Switching](#Tab\ Switching)   
+  1. [Crating New Notes](#Crating-New-Notes)
+  2. [Workspace Layouts](#Workspace-Layouts)
+  3. [Folder Description](#Folder-Description)
+  4. [Theme Customization](#Theme-Customization)
+  5. [Tab Switching](#Tab-Switching)   
 
 
 ---
