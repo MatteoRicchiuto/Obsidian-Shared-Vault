@@ -72,14 +72,16 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
 ---
 ## Plugins
 These are all the **Comunity Plugins** that I use in my actual obsidian configuration
-- [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
-- [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin)
-- [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite)
-- [Local Images](https://github.com/aleksey-rezvov/obsidian-local-images)
-- [Obsidian Git](https://github.com/denolehov/obsidian-git)
-- [Quick Add](https://github.com/chhoumann/quickadd)
-- [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
-- [Tab Switcher](https://github.com/Vinzent03/tab-switcher)
+| Key                                       | Description   |
+| ----------------------------------------- | ------------- |
+| [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) |  |
+| [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin) |  |
+| [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) |  |
+| [Local Images](https://github.com/aleksey-rezvov/obsidian-local-images) |  |
+| [Obsidian Git](https://github.com/denolehov/obsidian-git) |  |
+| [Quick Add](https://github.com/chhoumann/quickadd) |  |
+| [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) |  |
+| [Tab Switcher](https://github.com/Vinzent03/tab-switcher) |  |
 
 
 ---
