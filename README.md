@@ -5,6 +5,11 @@ If you download this repository, you will be able to open it with obsidian.
 
 The vault already has all the plugins that you need to use it.
 
+---
+## Index
+
+
+---
 ## Hot-Keys
 | Key                                       | Description   |
 | ----------------------------------------- | ------------- |
@@ -65,9 +70,21 @@ If you have already opened a layout, you can:
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-1982-47b5-8129-8d0247f871b7
 
 ---
+## Plugins
+- https://github.com/tgrosinger/advanced-tables-obsidian
+- https://github.com/xpgo/obsidian-folder-note-plugin
+- https://github.com/artisticat1/obsidian-latex-suite
+- https://github.com/aleksey-rezvov/obsidian-local-images
+- https://github.com/denolehov/obsidian-git
+- https://github.com/chhoumann/quickadd
+- https://github.com/mgmeyers/obsidian-style-settings
+- https://github.com/Vinzent03/tab-switcher
+
+--
+## Theme
 
 
-
+---
 
 
 
