@@ -71,7 +71,7 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
 
 ---
 ## Plugins
-**Comunity Plugins:**
+These are all the **Comunity Plugins** that I use in my actual obsidian configuration
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
 - [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin)
 - [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite)
@@ -81,9 +81,8 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
 - [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
 - [Tab Switcher](https://github.com/Vinzent03/tab-switcher)
 
-**Core Plugins:**
 
---
+---
 ## Theme
 
 
