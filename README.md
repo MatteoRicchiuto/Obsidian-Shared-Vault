@@ -12,7 +12,7 @@ The vault already has all the plugins that you need to use it.
 - [Work-Flows](#Work-Flows)
   - [Crating New Notes](#Crating-New-Notes)
   - [Workspace Layouts](#Workspace-Layouts)
-  - [Folder Description](#Folder-Description)
+  - [Folder Organization and Description](#Folder-Organization-and-Description)
   - [Tab Switching](#Tab-Switching)   
   - [Theme Customization](#Theme-Customization)
   
@@ -93,7 +93,7 @@ If you have already opened a layout, you can:
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-1982-47b5-8129-8d0247f871b7
 
 ---
-### Folder Description
+### Folder Organization and Description
 
 ---
 ### Tab Switching
