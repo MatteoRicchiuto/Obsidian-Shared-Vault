@@ -80,6 +80,7 @@ Creating a new note from a not existing but already defined note (using
 > - You can also **specify the folder where you want to create the note** in always in the plugin settings (example: "uni note" template creates a note in the "uni_archive" folder )
 
 **Example:**
+
 ![video](https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d)
 
 
