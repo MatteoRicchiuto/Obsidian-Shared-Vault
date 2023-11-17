@@ -81,7 +81,7 @@ Creating a new note from a not existing but already defined note (using
 
 **Example:**
 
-![video](https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d)
+https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
 
 
 ---
