@@ -135,7 +135,7 @@ There are 2 main way to organise you vault:
 
 <img src="README_media/Vault_example.png" width="200">
 
-####Easy Notes folder  
+#### Easy Notes folder  
 This folder has **no rules**, i usually save here:
 - *Small notes* that i don’t know where to save 
 - Random *thoughts and Ideas*
