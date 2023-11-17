@@ -6,7 +6,7 @@ If you download this repository, you will be able to open it with obsidian.
 The vault already has all the plugins that you need to use it.
 
 ---
-## Table of content
+# Table of content
 
 - [Hot-Keys](#Hot-Keys)
 - [Plugins](#Plugins)
@@ -19,7 +19,7 @@ The vault already has all the plugins that you need to use it.
   - [Theme Customisation](#Theme-Customisation)
 
 ---
-## Hot-Keys
+# Hot-Keys
 
 | Key                                       | Description   |
 | ----------------------------------------- | ------------- |
@@ -37,7 +37,7 @@ The vault already has all the plugins that you need to use it.
 | ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
 
 ---
-## Plugins
+# Plugins
 
 These are all the **Community Plugins** that I use in my actual obsidian configuration
 
@@ -54,9 +54,9 @@ These are all the **Community Plugins** that I use in my actual obsidian configu
 
 ---
 
-## Work-Flows
+# Work-Flows
 
-### Crating New Notes
+## Crating New Notes
 
 > All new note, files and media are initially saved in the [[To-Do]] folder, and later can be sorted in the right folders
 
@@ -84,7 +84,7 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32
 
 
 ---
-### Workspace Layouts
+## Workspace Layouts
 
 > To use this workflow you have to turn on the ```Workspaces plugin``` in the core-plugins settings 
 
@@ -107,7 +107,7 @@ If you have already opened a layout, you can:
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-1982-47b5-8129-8d0247f871b7
 
 ---
-### Folder Organisation and Description
+## Folder Organisation and Description
 
 There are 2 main way to organise you vault:
 	- **Tags organisation:** 
@@ -125,7 +125,7 @@ There are 2 main way to organise you vault:
 - **Modularity:** I want all my notes to divided in folder by category (example: university notes, Coding and technical notes, Journaling ...). This is important because i can treat them as separated vaults (example: one day i could decide to remove all my university notes from my main vault and make the in a new separate one)
 - **Easily maintainable:** Creating new notes and organising them is easy and fast
 
-#### Folder Structure
+### Folder Structure
 **Index:**
 - [Easy Notes folder](#Easy-Notes-folder)
 - [Literature Notes folder](#Literature-Notes-folder)
@@ -135,18 +135,18 @@ There are 2 main way to organise you vault:
 
 **add image**
 
-> [!note] Easy Notes folder  
->This folder has **no rules**, i usually save here:
->- *Small notes* that i don’t know where to save 
->- Random *thoughts and Ideas*
+####Easy Notes folder  
+This folder has **no rules**, i usually save here:
+- *Small notes* that i don’t know where to save 
+- Random *thoughts and Ideas*
 
-##### Literature Notes folder
+### Literature Notes folder
 This folder has only one rule, the notes need to be long and well written. I usually save here:
 - Long and articulated notes that i don’t know where to save
 - Books/Films/Games summaries 
 - Elaborations of the notes that are in the "Easy Notes" folder
 
-##### Mocs folder
+### Mocs folder
 This is my main and most important folder
 It contains other folders (subfolders), every subfolder as is own topic.
 
@@ -166,11 +166,11 @@ sub_folder
 
 ***add image of sub folder***
 
-##### Storage folder
+### Storage folder
 
 This is a general folder where i store all the files, media and templates of the vault that don't fit in the categories of the [[#MOCS folder]] (aggiusta link) 
 
-##### To-Do folder
+### To-Do folder
 
 This folder it’s set as default location where all the file, notes and media are saved when imported or created (with out using [[link della tecnica]] ) in the vault.
 
@@ -178,7 +178,7 @@ This folder it’s set as default location where all the file, notes and media a
 
 ---
 
-### Managing new notes
+## Managing new notes
 
 As seen in [Crating New Notes](#Crating-New-Notes) all the notes created with the ```cmd``` + ```t``` hot-key are already created in the right folder so you have to manage them
 
@@ -190,10 +190,10 @@ All new files when imported in the vault are saved in the **To-do folder**
 When you have some spare time you can open this folder and move all the files in the right folders (example: if you have a university related image you can move it to the "uni_storage" folder)
 
 ---
-### Tab Switching
+## Tab Switching
 
 ---
-### Theme Customisation
+## Theme Customisation
 
 ---
 
