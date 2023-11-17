@@ -134,6 +134,8 @@ There are 2 main way to organise you vault:
 - [Storage folder](#Storage-folder)
 - [To-Do folder](#To-Do-folder)
 
+<img src="me" width="600">
+
 **add image**
 
 ####Easy Notes folder  
