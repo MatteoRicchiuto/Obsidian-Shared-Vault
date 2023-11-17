@@ -135,8 +135,6 @@ There are 2 main way to organise you vault:
 
 <img src="README_media/Vault_example.png" width="200">
 
-**add image**
-
 ####Easy Notes folder  
 This folder has **no rules**, i usually save here:
 - *Small notes* that i don’t know where to save 
@@ -169,8 +167,6 @@ sub_folder
 - *sub_folder_archive:* folder where you can save all the notes related to the topic
 - *sub_folder_storage:* folder where you can save all the files related to the topic (example: images, pdfs, ...)
 
-***add image of sub folder***
-
 ### Storage folder
 
 <img src="README_media/Storage_Example.png" width="200">
@@ -184,8 +180,6 @@ This folder it’s set as default location where all the file, notes and media a
 **Read:** [Managing new notes](#Managing-new-notes) for more information
 
 ---
-
-
 
 ## Managing new notes and files
 #### New Notes:
