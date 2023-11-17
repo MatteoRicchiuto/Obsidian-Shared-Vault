@@ -1,7 +1,3 @@
-## Easy Notes
-This folder has **no rules**, i usually save here:
-- *Small notes* that i don’t know where to save 
-- Random *thoughts and Ideas*
 # Obsidian-Shared-Vault
 This is my obsidian repository that contains all my Uni and Coding related notes 
 
