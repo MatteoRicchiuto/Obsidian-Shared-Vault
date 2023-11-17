@@ -163,9 +163,9 @@ sub_folder
 	- sub_folder_storage
 ```
 
-- *sub_moc.md:* a map of content (index) where you can link notes related the the main topic of the folder
-- *sub_folder_archive:* folder where you can save all the notes related to the topic
-- *sub_folder_storage:* folder where you can save all the files related to the topic (example: images, pdfs, ...)
+- **sub_moc.md:** a map of content (index) where you can link notes related the the main topic of the folder
+- **sub_folder_archive:** folder where you can save all the notes related to the topic
+- **sub_folder_storage:** folder where you can save all the files related to the topic (example: images, pdfs, ...)
 
 ### Storage folder
 
