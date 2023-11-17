@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "bab8a82c8f09f0e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "right": {
     "id": "1599d9a7234429ed",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md"
+                "file": "README.md"
               }
             }
           },
@@ -141,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +167,9 @@
   },
   "active": "ea980fc4130425b6",
   "lastOpenFiles": [
+    "README_media/NewNote.mov",
+    "README.md",
+    "Untitled.png",
     "1. Flet Notes/Daily Notes/2023-03-25.md",
     "Recording 20230325132352.webm",
     "Vim.md",
@@ -188,7 +201,6 @@
     "Shared-Notes/Programming/Archive/C Funcions.md",
     "Shared-Notes/Programming/Archive/C free Funcion.md",
     "Shared-Notes/Programming/Archive/C sizeof Funcion.md",
-    "Shared-Notes/Uni/Classes/Programmazione Calcolatori (Class).md",
     "Files/Media/John Notes Logia e Reti L1.pdf",
     "Shared-Notes/Uni/Classes",
     "Shared-Notes/Uni/Archive"
