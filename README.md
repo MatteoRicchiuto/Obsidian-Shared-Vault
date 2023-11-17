@@ -186,7 +186,7 @@ As seen in [Crating New Notes](#Crating-New-Notes) all the notes created with th
 
 If you create a note without using the ```cmd```+ ```t``` method or you have crated a random note that doesn’t fit any of your template, it will be saved in the **To-Do Folder**
 
-#### New Files
+#### New Files:
 All new files when imported in the vault are saved in the **To-do folder**
 
 When you have some spare time you can open this folder and move all the files in the right folders (example: if you have a university related image you can move it to the "uni_storage" folder)
