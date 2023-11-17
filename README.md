@@ -136,7 +136,7 @@ There are 2 main way to organise you vault:
 
 **add image**
 
-> [!warning] ####Easy Notes folder  
+> [!note] ####Easy Notes folder  
 >This folder has **no rules**, i usually save here:
 >- *Small notes* that i don’t know where to save 
 >- Random *thoughts and Ideas*
