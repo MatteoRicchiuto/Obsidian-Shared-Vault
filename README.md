@@ -136,10 +136,10 @@ There are 2 main way to organise you vault:
 
 **add image**
 
-##### Easy Notes folder
-This folder has **no rules**, i usually save here:
-- *Small notes* that i don’t know where to save 
-- Random *thoughts and Ideas*
+>##### Easy Notes folder
+>This folder has **no rules**, i usually save here:
+>- *Small notes* that i don’t know where to save 
+>- Random *thoughts and Ideas*
 
 ##### Literature Notes folder
 This folder has only one rule, the notes need to be long and well written. I usually save here:
