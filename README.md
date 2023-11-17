@@ -78,7 +78,6 @@ Creating a new note from a not existing but already defined note (using
 > [!note] 
 > - This method is implemented using the [quickadd plugin](https://github.com/chhoumann/quickadd) , you can **add new templates** going the settings of this plugin
 > - You can also **specify the folder where you want to create the note** in always in the plugin settings (example: "uni note" template creates a note in the "uni_archive" folder )
-> 
 
 **Example:**
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
@@ -136,7 +135,7 @@ There are 2 main way to organise you vault:
 
 **add image**
 
-> [!note] ####Easy Notes folder  
+> [!note] Easy Notes folder  
 >This folder has **no rules**, i usually save here:
 >- *Small notes* that i don’t know where to save 
 >- Random *thoughts and Ideas*
