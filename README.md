@@ -14,7 +14,7 @@ The vault already has all the plugins that you need to use it.
   - [Crating New Notes](#Crating-New-Notes)
   - [Workspace Layouts](#Workspace-Layouts)
   - [Folder Organisation and Description](#Folder-Organisation-and-Description)
-  - [Managing new notes and files](#)
+  - [Managing new notes and files](#Managing-new-notes-and-files)
   - [Tab Switching](#Tab-Switching)   
   - [Theme Customisation](#Theme-Customisation)
 
@@ -178,13 +178,15 @@ This folder it’s set as default location where all the file, notes and media a
 
 ---
 
-## Managing new notes
 
+
+## Managing new notes and files
+#### New Notes:
 As seen in [Crating New Notes](#Crating-New-Notes) all the notes created with the ```cmd``` + ```t``` hot-key are already created in the right folder so you have to manage them
 
 If you create a note without using the ```cmd```+ ```t``` method or you have crated a random note that doesn’t fit any of your template, it will be saved in the **To-Do Folder**
 
-#### Managing new files and images
+#### New Files
 All new files when imported in the vault are saved in the **To-do folder**
 
 When you have some spare time you can open this folder and move all the files in the right folders (example: if you have a university related image you can move it to the "uni_storage" folder)
