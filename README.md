@@ -83,7 +83,6 @@ Creating a new note from a not existing but already defined note (using
 
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
 
-
 ---
 ## Workspace Layouts
 
@@ -134,7 +133,7 @@ There are 2 main way to organise you vault:
 - [Storage folder](#Storage-folder)
 - [To-Do folder](#To-Do-folder)
 
-<img src="README_media/" width="600">
+<img src="README_media/Vault_example.png" width="300">
 
 **add image**
 
@@ -150,6 +149,9 @@ This folder has only one rule, the notes need to be long and well written. I usu
 - Elaborations of the notes that are in the "Easy Notes" folder
 
 ### Mocs folder
+
+<img src="README_media/MOCS_example.png" width="300">
+
 This is my main and most important folder
 It contains other folders (subfolders), every subfolder as is own topic.
 
@@ -170,6 +172,8 @@ sub_folder
 ***add image of sub folder***
 
 ### Storage folder
+
+<img src="README_media/Storage_Example.png" width="300">
 
 This is a general folder where i store all the files, media and templates of the vault that don't fit in the categories of the [[#MOCS folder]] (aggiusta link) 
 
