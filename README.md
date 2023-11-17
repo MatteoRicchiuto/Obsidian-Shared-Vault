@@ -133,7 +133,7 @@ There are 2 main way to organise you vault:
 - [Storage folder](#Storage-folder)
 - [To-Do folder](#To-Do-folder)
 
-<img src="README_media/Vault_example.png" width="300">
+<img src="README_media/Vault_example.png" width="200">
 
 **add image**
 
@@ -150,7 +150,7 @@ This folder has only one rule, the notes need to be long and well written. I usu
 
 ### Mocs folder
 
-<img src="README_media/MOCS_example.png" width="300">
+<img src="README_media/MOCS_example.png" width="200">
 
 This is my main and most important folder
 It contains other folders (subfolders), every subfolder as is own topic.
@@ -173,7 +173,7 @@ sub_folder
 
 ### Storage folder
 
-<img src="README_media/Storage_Example.png" width="300">
+<img src="README_media/Storage_Example.png" width="200">
 
 This is a general folder where i store all the files, media and templates of the vault that don't fit in the categories of the [[#MOCS folder]] (aggiusta link) 
 
