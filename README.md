@@ -111,13 +111,13 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
 
 There are 2 main way to organise you vault:
 - **Tags organisation:** 
-		- All notes and files are divided in a small amount of folders, links and tags are used to categorise and organise your notes
-		- Pros: Easy to maintain
-		- Cons: not modular (it's hard to remove/move a notes categories) it can become disordered if you have lots of notes
+	- All notes and files are divided in a small amount of folders, links and tags are used to categorise and organise your notes
+	- Pros: Easy to maintain
+	- Cons: not modular (it's hard to remove/move a notes categories) it can become disordered if you have lots of notes
 - **Folder organisation:** 
-		- All the recurring main topics and subjects have their own folder and usually different types of files are divided in different folders
-		- Pros: tidy and ordered, modular
-		- Cons: organising all the notes and file is hard and time consuming (not productive)
+	- All the recurring main topics and subjects have their own folder and usually different types of files are divided in different folders
+	- Pros: tidy and ordered, modular
+	- Cons: organising all the notes and file is hard and time consuming (not productive)
 
 **How i organise my vault:** I my case i use a combination of these 2 organisation techniques
 
