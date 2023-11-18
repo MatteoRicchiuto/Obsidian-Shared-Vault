@@ -178,7 +178,7 @@ This is a general folder where i store all the files, media and templates of the
 
 This folder it’s set as default location where all the file, notes and media are saved when imported or created (with out using [[link della tecnica]] ) in the vault.
 
-**Read:** [Managing new notes](#Managing-new-notes) for more information
+**Read:** [Managing new notes and files](#Managing-new-notes-and-files) for more information
 
 ---
 
