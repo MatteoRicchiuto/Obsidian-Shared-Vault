@@ -33,8 +33,11 @@ The vault already has all the plugins that you need to use it.
 | ```cmd``` + ```p``` |  Open command palette |
 | ```cmd``` + ```option``` + ```←``` | Navigate back  |
 | ```cmd``` + ```option``` + ```→``` | Navigate forward |
+| ```control``` + ```tab``` | Go to the next tab  |
+| ```control``` + ```shift`` +```tab``` | Go to the previous tab  |
 | ```cmd``` + ```r``` | Load workspace layout |
 | ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
+
 
 ---
 # Plugins
@@ -45,7 +48,6 @@ These are all the **Community Plugins** that I use in my actual obsidian configu
 | ----------------------------------------- | ------------- | --------- |
 | [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin) | Add description note to a folder  | [link](#Folder-Description) |
 | [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Typesetting LaTeX math as fast as handwriting |  |
-| [Local Images](https://github.com/aleksey-rezvov/obsidian-local-images) | finds all links to external images in your notes, downloads and saves images locally and finally adjusts the link in your note to point to the local image files |  |
 | [Obsidian Git](https://github.com/denolehov/obsidian-git) | Plugin that allows you to back up your Obsidian vault to a remote Git repository |  |
 | [Quick Add](https://github.com/chhoumann/quickadd) | Powerful combination of four tools: templates, captures, macros and multis | [link](#Crating-New-Notes) |
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Customisation settings for obsidian themes | [link](#Theme-Customization) |
