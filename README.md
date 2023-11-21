@@ -31,8 +31,8 @@ The vault already has all the plugins that you need to use it.
 | ```cmd``` + ```shift``` + ```d``` |  Toggle left side bar |
 | ```cmd``` + ```w``` |  Close current tab |
 | ```cmd``` + ```p``` |  Open command palette |
-| to-do | Navigate back  |
-| to-do | Navigate forward |
+| ```cmd``` + ```option``` + ```←``` | Navigate back  |
+| ```cmd``` + ```option``` + ```→``` | Navigate forward |
 | ```cmd``` + ```r``` | Load workspace layout |
 | ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
 
@@ -43,7 +43,6 @@ These are all the **Community Plugins** that I use in my actual obsidian configu
 
 | Key                                       | Description   | Work Flow |
 | ----------------------------------------- | ------------- | --------- |
-| [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) | Improved formatting and manipulation to markdown tables in Obsidian |  |
 | [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin) | Add description note to a folder  | [link](#Folder-Description) |
 | [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Typesetting LaTeX math as fast as handwriting |  |
 | [Local Images](https://github.com/aleksey-rezvov/obsidian-local-images) | finds all links to external images in your notes, downloads and saves images locally and finally adjusts the link in your note to point to the local image files |  |
