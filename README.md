@@ -201,19 +201,15 @@ When you have some spare time you can open this folder and move all the files in
 
 ---
 ## Tab Switching
-test
 
 ---
 ## Latex Configuration
-
 
 ---
 ## Vim Like Experience
 
 ---
 ## Theme Customisation
-testtest
-
 
 ---
 
