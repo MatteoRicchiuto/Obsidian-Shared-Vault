@@ -34,9 +34,10 @@ The vault already has all the plugins that you need to use it.
 | ```cmd``` + ```option``` + ```←``` | Navigate back  |
 | ```cmd``` + ```option``` + ```→``` | Navigate forward |
 | ```control``` + ```tab``` | Go to the next tab  |
-| ```control``` + ```shift`` +```tab``` | Go to the previous tab  |
+| ```control``` + ```shift``` +```tab``` | Go to the previous tab  |
 | ```cmd``` + ```r``` | Load workspace layout |
 | ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
+| ```cmd``` + ```i``` | Toggele reading view |
 
 
 ---
