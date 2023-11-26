@@ -16,7 +16,7 @@ The vault already has all the plugins that you need to use it.
   - [Folder Organisation and Description](#Folder-Organisation-and-Description)
   - [Managing new notes and files](#Managing-new-notes-and-files)
   - [Tab Switching](#Tab-Switching)
-  - [Latex Configuration](#Latex-Configutaion)
+  - [Latex Configuration](#Latex-Configuration)
   - [Vim Like Experience](#Vim-Like-Experience)
   - [Theme Customisation](#Theme-Customisation)
 
