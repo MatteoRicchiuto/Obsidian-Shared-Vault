@@ -122,7 +122,7 @@ There are 2 main way to organise you vault:
 	- Pros: tidy and ordered, modular
 	- Cons: organising all the notes and file is hard and time consuming (not productive)
 
-**How i organise my vault:** I my case i use a combination of these 2 organisation techniques
+**How i organise my vault:** I use a combination of these 2 organisation techniques
 
 #### Key Features:
 - **Modularity:** I want all my notes to divided in folder by category (example: university notes, Coding and technical notes, Journaling ...). This is important because i can treat them as separated vaults (example: one day i could decide to remove all my university notes from my main vault and make the in a new separate one)
