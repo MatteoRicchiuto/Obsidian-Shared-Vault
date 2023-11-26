@@ -15,7 +15,9 @@ The vault already has all the plugins that you need to use it.
   - [Workspace Layouts](#Workspace-Layouts)
   - [Folder Organisation and Description](#Folder-Organisation-and-Description)
   - [Managing new notes and files](#Managing-new-notes-and-files)
-  - [Tab Switching](#Tab-Switching)   
+  - [Tab Switching](#Tab-Switching)
+  - [Latex Configuration](#Latex-Configutaion)
+  - [Vim Like Experience](#Vim-Like-Experience)
   - [Theme Customisation](#Theme-Customisation)
 
 ---
@@ -48,11 +50,13 @@ These are all the **Community Plugins** that I use in my actual obsidian configu
 | Key                                       | Description   | Work Flow |
 | ----------------------------------------- | ------------- | --------- |
 | [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin) | Add description note to a folder  | [link](#Folder-Description) |
-| [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Typesetting LaTeX math as fast as handwriting |  |
-| [Obsidian Git](https://github.com/denolehov/obsidian-git) | Plugin that allows you to back up your Obsidian vault to a remote Git repository |  |
+| [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Typesetting LaTeX math as fast as handwriting | [link](#Latex-Configutaion) |
+| [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers)| Add relative line numbers to the editor | [link](#Vim-Like-Experience) |
+| [Obsidian Git](https://github.com/denolehov/obsidian-git) | Vesion control and back up your Obsidian vault using Git |
 | [Quick Add](https://github.com/chhoumann/quickadd) | Powerful combination of four tools: templates, captures, macros and multis | [link](#Crating-New-Notes) |
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Customisation settings for obsidian themes | [link](#Theme-Customization) |
 | [Tab Switcher](https://github.com/Vinzent03/tab-switcher) |  | [link](#Tab-Switching)  |
+
 
 ---
 
@@ -198,6 +202,13 @@ When you have some spare time you can open this folder and move all the files in
 ---
 ## Tab Switching
 test
+
+---
+## Latex Configuration
+
+
+---
+## Vim Like Experience
 
 ---
 ## Theme Customisation
