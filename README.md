@@ -60,7 +60,7 @@ These are all the **Community Plugins** that I use in my actual obsidian configu
 
 ## Crating New Notes
 
-> All new note, files and media are initially saved in the [[To-Do]] folder, and later can be sorted in the right folders
+> All new note, files and media are initially saved in the **To-Do** folder, and later can be sorted in the right folders
 
 **Base metods:**
 
