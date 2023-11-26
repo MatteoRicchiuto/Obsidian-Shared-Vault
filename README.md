@@ -128,7 +128,7 @@ There are 2 main way to organise you vault:
 - **Modularity:** I want all my notes to divided in folder by category (example: university notes, Coding and technical notes, Journaling ...). This is important because i can treat them as separated vaults (example: one day i could decide to remove all my university notes from my main vault and make the in a new separate one)
 - **Easily maintainable:** Creating new notes and organising them is easy and fast
 
-### Folder Structure
+## Folder Structure
 **Index:**
 - [Easy Notes folder](#Easy-Notes-folder)
 - [Literature Notes folder](#Literature-Notes-folder)
@@ -138,7 +138,7 @@ There are 2 main way to organise you vault:
 
 <img src="README_media/Vault_example.png" width="200">
 
-#### Easy Notes folder  
+### Easy Notes folder  
 This folder has **no rules**, i usually save here:
 - *Small notes* that i don’t know where to save 
 - Random *thoughts and Ideas*
