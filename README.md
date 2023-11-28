@@ -82,8 +82,8 @@ Creating a new note from a not existing but already defined note (using
 3. Select the template
 
 > [!note] 
-> - This method is implemented using the [quickadd plugin](https://github.com/chhoumann/quickadd) , you can **add new templates** going the settings of this plugin
-> - You can also **specify the folder where you want to create the note** in always in the plugin settings (example: "uni note" template creates a note in the "uni_archive" folder )
+> - This method is implemented using the [quickadd plugin](https://github.com/chhoumann/quickadd) , you can **add new templates** going to the settings of this plugin
+> - You can also **specify the folder where you want to create the new note** in the plugin settings (example: "uni note" template creates a note in the "uni_archive" folder )
 
 **Example:**
 
@@ -113,24 +113,13 @@ If you have already opened a layout, you can:
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-1982-47b5-8129-8d0247f871b7
 
 ---
-## Folder Organisation and Description
-
-There are 2 main way to organise you vault:
-1. **Tags organisation:** 
-	-  All notes and files are divided in a small amount of folders, links and tags are used to categorise and organise your notes
- 	- Pros: Easy to maintain
- 	- Cons: not modular (it's hard to remove/move a notes categories) it can become disordered if you have lots of notes
-
-2. **Folder organisation:** 
-	- All the recurring main topics and subjects have their own folder and usually different types of files are divided in different folders
-	- Pros: tidy and ordered, modular
-	- Cons: organising all the notes and file is hard and time consuming (not productive)
-
-**How i organise my vault:** I use a combination of these 2 organisation techniques
+# Folder Organisation and Description
 
 #### Key Features:
-- **Modularity:** I want all my notes to divided in folder by category (example: university notes, Coding and technical notes, Journaling ...). This is important because i can treat them as separated vaults (example: one day i could decide to remove all my university notes from my main vault and make the in a new separate one)
-- **Easily maintainable:** Creating new notes and organising them is easy and fast
+- **Modularity:**
+	- I want all my notes to divided in folder by category (example: university notes, Coding and technical notes, Journaling ...).
+ 	- This is important because i can treat them as separated vaults (example: one day i could decide to remove all my university notes from my main vault and make the in a new separate one)
+- **Easily maintainable:** Creating new notes and organising them shud be easy and fast
 
 ## Folder Structure
 **Index:**
@@ -142,27 +131,28 @@ There are 2 main way to organise you vault:
 
 <img src="README_media/Vault_example.png" width="200">
 
-### Easy Notes folder  
+## Easy Notes folder  
 This folder has **no rules**, i usually save here:
 - *Small notes* that i don’t know where to save 
-- Random *thoughts and Ideas*
+- Random *thoughts and ideas*
 
-### Literature Notes folder
+## Literature Notes folder
 This folder has only one rule, the notes need to be long and well written. I usually save here:
 - Long and articulated notes that i don’t know where to save
 - Books/Films/Games summaries 
 - Elaborations of the notes that are in the "Easy Notes" folder
 
-### Mocs folder
+## Mocs folder
 
 <img src="README_media/MOCS_example.png" width="200">
 
 This is my main and most important folder
-It contains other folders (subfolders), every subfolder as is own topic.
+It contains other folders (subfolders), and every subfolder has is own topic.
 
+>[note:]
 >I have here only groups of notes that i want to treat as separated vaults. 
 
-Every subfolder as a precise structure:
+**Every subfolder as a precise structure:**
 ```
 sub_folder
 	- sub_moc.md
@@ -172,7 +162,7 @@ sub_folder
 
 - **sub_moc.md:** a map of content (index) where you can link notes related the the main topic of the folder
 - **sub_folder_archive:** folder where you can save all the notes related to the topic
-- **sub_folder_storage:** folder where you can save all the files related to the topic (example: images, pdfs, ...)
+- **sub_folder_storage:** folder where you can save all the files and attachments related to the notes in the archive folder (example: images, pdfs, ...)
 
 ### Storage folder
 
