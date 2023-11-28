@@ -47,15 +47,15 @@ The vault already has all the plugins that you need to use it.
 
 These are all the **Community Plugins** that I use in my actual obsidian configuration
 
-| Key                                       | Description   | Work Flow |
-| ----------------------------------------- | ------------- | --------- |
-| [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin) | Add description note to a folder  | [link](#Folder-Description) |
-| [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Typesetting LaTeX math as fast as handwriting | [link](#Latex-Configuration) |
-| [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers)| Add relative line numbers to the editor | [link](#Vim-Like-Experience) |
-| [Obsidian Git](https://github.com/denolehov/obsidian-git) | Vesion control and back up your Obsidian vault using Git |
-| [Quick Add](https://github.com/chhoumann/quickadd) | Powerful combination of four tools: templates, captures, macros and multis | [link](#Crating-New-Notes) |
-| [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Customisation settings for obsidian themes | [link](#Theme-Customization) |
-| [Tab Switcher](https://github.com/Vinzent03/tab-switcher) |  | [link](#Tab-Switching)  |
+|    Plugins                                | Description   | Config | Work Flow |
+| ----------------------------------------- | ------------- | --------- | --------- |
+| [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin) | Add description note to a folder  |    | [link](#Folder-Description) |
+| [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Typesetting LaTeX math as fast as handwriting |    |  [link](#Latex-Configuration) |
+| [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers)| Add relative line numbers to the editor |   | [link](#Vim-Like-Experience) |
+| [Obsidian Git](https://github.com/denolehov/obsidian-git) | Vesion control and back up your Obsidian vault using Git |  |  |
+| [Quick Add](https://github.com/chhoumann/quickadd) | Powerful combination of four tools: templates, captures, macros and multis |    | [link](#Crating-New-Notes) |
+| [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Customisation settings for obsidian themes |    | [link](#Theme-Customization) |
+| [Tab Switcher](https://github.com/Vinzent03/tab-switcher) |     |    | [link](#Tab-Switching)  |
 
 
 ---
