@@ -15,9 +15,7 @@ The vault already has all the plugins that you need to use it.
   - [Workspace Layouts](#Workspace-Layouts)
   - [Folder Organisation and Description](#Folder-Organisation-and-Description)
   - [Managing new notes and files](#Managing-new-notes-and-files)
-  - [Tab Switching](#Tab-Switching)
   - [Latex Configuration](#Latex-Configuration)
-  - [Vim Like Experience](#Vim-Like-Experience)
   - [Theme Customisation](#Theme-Customisation)
 
 ---
@@ -37,6 +35,8 @@ The vault already has all the plugins that you need to use it.
 | ```cmd``` + ```option``` + ```→``` | Navigate forward |
 | ```control``` + ```tab``` | Go to the next tab  |
 | ```control``` + ```shift``` +```tab``` | Go to the previous tab  |
+| ```control``` + ```shift``` + ```←``` | Navigate back |
+| ```control``` +  ```shift``` + ```→``` | Navigate forward |
 | ```cmd``` + ```r``` | Load workspace layout |
 | ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
 | ```cmd``` + ```i``` | Toggele reading view |
@@ -164,39 +164,34 @@ sub_folder
 - **sub_folder_archive:** folder where you can save all the notes related to the topic
 - **sub_folder_storage:** folder where you can save all the files and attachments related to the notes in the archive folder (example: images, pdfs, ...)
 
-### Storage folder
+## Storage folder
 
 <img src="README_media/Storage_Example.png" width="200">
 
-This is a general folder where i store all the files, media and templates of the vault that don't fit in the categories of the [[#MOCS folder]] (aggiusta link) 
+This is a general folder where i store all the files, media and templates of the vault that don't fit in the categories of the [Mocs folder](#Mocs_folder) 
 
-### To-Do folder
+## To-Do folder
 
-This folder it’s set as default location where all the file, notes and media are saved when imported or created (with out using [[link della tecnica]] ) in the vault.
+- This folder is set as default location for all the new notes and attachments, (read: [how to set a default folder for new notes and attachments](/README_media/How_to.md) 
+- This folder also contains a note called To_Do.md, in this note a write all the things that a have to do/write/adjust in the vault
 
 **Read:** [Managing new notes and files](#Managing-new-notes-and-files) for more information
 
 ---
 
 ## Managing new notes and files
-#### New Notes:
-As seen in [Crating New Notes](#Crating-New-Notes) all the notes created with the ```cmd``` + ```t``` hot-key are already created in the right folder so you have to manage them
+**New Notes:**
+- As seen in [Crating New Notes](#Crating-New-Notes) all the notes created with the ```cmd``` + ```t``` hot-key are already created in the right folder so you don't have to manage them
 
-If you create a note without using the ```cmd```+ ```t``` method or you have crated a random note that doesn’t fit any of your template, it will be saved in the **To-Do Folder**
+- If you create a note without using the ```cmd```+ ```t``` method or you have crated a random note that doesn’t fit any of your templates, it will be saved in the **To-Do Folder**
 
-#### New Files:
-All new files when imported in the vault are saved in the **To-do folder**
+**New Files:**
+- All new files when imported in the vault are saved in the **To-do folder**
 
-When you have some spare time you can open this folder and move all the files in the right folders (example: if you have a university related image you can move it to the "uni_storage" folder)
-
----
-## Tab Switching
+> When you have some spare time you can open this folder and move all the files in the right folders (example: if you have a university related image you can move it to the "uni_storage" folder)
 
 ---
 ## Latex Configuration
-
----
-## Vim Like Experience
 
 ---
 ## Theme Customisation
