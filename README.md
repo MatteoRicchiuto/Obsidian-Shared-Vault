@@ -47,7 +47,7 @@ The vault already has all the plugins that you need to use it.
 
 These are all the **Community Plugins** that I use in my actual obsidian configuration
 
-| Key                                       | Description   | Work Flow |
+|    Plugins                                | Description   | Work Flow |
 | ----------------------------------------- | ------------- | --------- |
 | [Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin) | Add description note to a folder  | [link](#Folder-Description) |
 | [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Typesetting LaTeX math as fast as handwriting | [link](#Latex-Configuration) |
