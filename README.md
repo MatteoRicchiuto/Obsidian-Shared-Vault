@@ -21,6 +21,8 @@ The vault already has all the plugins that you need to use it.
 ---
 # Hot-Keys
 
+These are my customs or frequently used hot keys.
+
 | Key                                       | Description   |
 | ----------------------------------------- | ------------- |
 | ```cmd``` + ```s``` | Search in all files |
@@ -29,17 +31,19 @@ The vault already has all the plugins that you need to use it.
 | ```cmd``` + ```f``` |  Search current file |
 | ```cmd``` + ```d``` |  Toggle right side bar |
 | ```cmd``` + ```shift``` + ```d``` |  Toggle left side bar |
-| ```cmd``` + ```w``` |  Close current tab |
+| ```cmd``` + ```r``` | Load workspace layout |
+| ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
+| ```cmd``` + ```i``` | Toggele reading view |
+| ```control``` + ```w``` or ```cmd``` + ```w```|  Close current tab |
+| ```control``` + ```shift``` + ```w``` |  Undo lose current tab |
 | ```cmd``` + ```p``` |  Open command palette |
-| ```cmd``` + ```option``` + ```←``` | Navigate back  |
-| ```cmd``` + ```option``` + ```→``` | Navigate forward |
+| ```control``` + ```shift``` + ```←``` | Navigate back  |
+| ```control``` + ```shift``` + ```→``` | Navigate forward |
 | ```control``` + ```tab``` | Go to the next tab  |
 | ```control``` + ```shift``` +```tab``` | Go to the previous tab  |
 | ```control``` + ```shift``` + ```←``` | Navigate back |
 | ```control``` +  ```shift``` + ```→``` | Navigate forward |
-| ```cmd``` + ```r``` | Load workspace layout |
-| ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
-| ```cmd``` + ```i``` | Toggele reading view |
+
 
 
 ---
