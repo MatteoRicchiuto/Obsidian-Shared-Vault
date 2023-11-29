@@ -11,12 +11,12 @@ The vault already has all the plugins that you need to use it.
 - [Hot-Keys](#Hot-Keys)
 - [Plugins](#Plugins)
 - [Work-Flows](#Work-Flows)
-  - [Crating New Notes](#Crating-New-Notes)
-  - [Workspace Layouts](#Workspace-Layouts)
-  - [Folder Organisation and Description](#Folder-Organisation-and-Description)
-  - [Managing new notes and files](#Managing-new-notes-and-files)
-  - [Latex Configuration](#Latex-Configuration)
-  - [Theme Customisation](#Theme-Customisation)
+	- [Crating New Notes](#Crating-New-Notes)
+  	- [Workspace Layouts](#Workspace-Layouts)
+- [Folder Organisation and Description](#Folder-Organisation-and-Description)
+- [Managing new notes and files](#Managing-new-notes-and-files)
+-  [Latex Configuration](#Latex-Configuration)
+-  [Theme Customisation](#Theme-Customisation)
 
 ---
 # Hot-Keys
@@ -35,7 +35,7 @@ These are my customs or frequently used hot keys.
 | ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
 | ```cmd``` + ```i``` | Toggele reading view |
 | ```control``` + ```w``` or ```cmd``` + ```w```|  Close current tab |
-| ```control``` + ```shift``` + ```w``` |  Undo lose current tab |
+| ```control``` + ```shift``` + ```w``` |  Undo close tab |
 | ```cmd``` + ```p``` |  Open command palette |
 | ```control``` + ```shift``` + ```←``` | Navigate back  |
 | ```control``` + ```shift``` + ```→``` | Navigate forward |
@@ -59,7 +59,7 @@ These are all the **Community Plugins** that I use in my actual obsidian configu
 | [Obsidian Git](https://github.com/denolehov/obsidian-git) | Vesion control and back up your Obsidian vault using Git |  |  |
 | [Quick Add](https://github.com/chhoumann/quickadd) | Powerful combination of four tools: templates, captures, macros and multis |    | [link](#Crating-New-Notes) |
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Customisation settings for obsidian themes |    | [link](#Theme-Customization) |
-| [Tab Switcher](https://github.com/Vinzent03/tab-switcher) |     |    |   |
+| [Tab Switcher](https://github.com/Vinzent03/tab-switcher) | alt-tab style switching between tabs    |    |   |
 
 
 ---
@@ -183,7 +183,7 @@ This is a general folder where i store all the files, media and templates of the
 
 ---
 
-## Managing new notes and files
+# Managing new notes and files
 **New Notes:**
 - As seen in [Crating New Notes](#Crating-New-Notes) all the notes created with the ```cmd``` + ```t``` hot-key are already created in the right folder so you don't have to manage them
 
@@ -195,10 +195,10 @@ This is a general folder where i store all the files, media and templates of the
 > When you have some spare time you can open this folder and move all the files in the right folders (example: if you have a university related image you can move it to the "uni_storage" folder)
 
 ---
-## Latex Configuration
+# Latex Configuration
 
 ---
-## Theme Customisation
+# Theme Customisation
 
 ---
 
