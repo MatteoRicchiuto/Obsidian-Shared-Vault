@@ -10,13 +10,13 @@ The vault already has all the plugins that you need to use it.
 
 - [Hot-Keys](#Hot-Keys)
 - [Plugins](#Plugins)
+- [Folder Organisation and Description](#Folder-Organisation-and-Description)
 - [Work-Flows](#Work-Flows)
 	- [Crating New Notes](#Crating-New-Notes)
   	- [Workspace Layouts](#Workspace-Layouts)
-- [Folder Organisation and Description](#Folder-Organisation-and-Description)
-- [Managing new notes and files](#Managing-new-notes-and-files)
+  	- [Managing new notes and files](#Managing-new-notes-and-files)
+        - [Latex](#Latex)
 - [Vim Motion](#Vim-Motions)
-- [Latex Configuration](#Latex-Configuration)
 - [Theme Customisation](#Theme-Customisation)
 
 ---
@@ -59,63 +59,6 @@ These are all the **Community Plugins** that I use in my actual obsidian configu
 | [Quick Add](https://github.com/chhoumann/quickadd) | Powerful combination of four tools: templates, captures, macros ... |    | [link](#Crating-New-Notes) |
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Customisation settings for obsidian themes |    | [link](#Theme-Customization) |
 | [Tab Switcher](https://github.com/Vinzent03/tab-switcher) | alt-tab style switching between tabs   |    |   |
-
----
-
-# Work-Flows
-
-## Crating New Notes
-
-> All new note, files and media are initially saved in the **To-Do** folder, and later can be sorted in the right folders.
-
-**Base metods:**
-
-| Key                                       | Description   |
-| ----------------------------------------- | ------------- |
-| ```cmd``` + ```n``` | Create new note |
-| ```cmd``` + ```shift``` + ```n```| Create new note to the right |
-
->[!note]
-> - In the settings you can change the default location for new notes (read: )
-
-**Advanced method:**
-Creating a new note from a not existing but already defined note (using 
-[quickadd plugin](https://github.com/chhoumann/quickadd)).
-1. Highlight the note name.
-2. Press ```cmd``` + ```t```.
-3. Select the template.
-
-> [!note] 
-> - This method is implemented using the [quickadd plugin](https://github.com/chhoumann/quickadd) , you can **add new templates** going to the settings of this plugin.
-> - You can also **specify the folder where you want to create the new note** in the plugin settings (example: "uni note" template creates a note in the "uni_archive" folder).
-
-
-**Example:**
-
-https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
-
----
-## Workspace Layouts
-
-> To use this workflow you have to turn on the ```Workspaces plugin``` in the core-plugins settings.
-
-**Create a new workspace layout:**
-1. Presa ```cmd``` + ```p``` to open command palette.
-2. Search ```Workspace: Manage workspaces layouts```.
-3. Create and save a new workspace layout.
-
-**Load an existing layout:**
--  Press ```cmd``` + ```r``` and choose the layout.
-
-**Save and load another layout:**
-
-If you have already opened a layout, you can: 
-- *Save it:* press ```cmd``` + ```shift``` + ```r```, than choose the layout that you have already open.
-- *Save and load a different one:* press ```cmd``` + ```shift``` + ```r```, than choose the layout that you want to open.
-
-**Example:**
-
-https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-1982-47b5-8129-8d0247f871b7
 
 ---
 # Folder Organisation and Description
@@ -181,8 +124,41 @@ This is a general folder where i store all the files, media and templates of the
 
 **Read:** [Managing new notes and files](#Managing-new-notes-and-files) for more information.
 
----
 
+---
+# Work-Flows
+
+## Crating New Notes
+
+> All new note, files and media are initially saved in the **To-Do** folder, and later can be sorted in the right folders.
+
+**Base metods:**
+
+| Key                                       | Description   |
+| ----------------------------------------- | ------------- |
+| ```cmd``` + ```n``` | Create new note |
+| ```cmd``` + ```shift``` + ```n```| Create new note to the right |
+
+>[!note]
+> - In the settings you can change the default location for new notes (read: )
+
+**Advanced method:**
+Creating a new note from a not existing but already defined note (using 
+[quickadd plugin](https://github.com/chhoumann/quickadd)).
+1. Highlight the note name.
+2. Press ```cmd``` + ```t```.
+3. Select the template.
+
+> [!note] 
+> - This method is implemented using the [quickadd plugin](https://github.com/chhoumann/quickadd) , you can **add new templates** going to the settings of this plugin.
+> - You can also **specify the folder where you want to create the new note** in the plugin settings (example: "uni note" template creates a note in the "uni_archive" folder).
+
+
+**Example:**
+
+https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32d-4fff-96a3-b0e27a479e5d
+
+---
 ## Managing new notes and files
 **New Notes:**
 - As seen in [Crating New Notes](#Crating-New-Notes) all the notes created with the ```cmd``` + ```t``` hot-key are already created in the right folder so you don't have to manage them.
@@ -195,17 +171,35 @@ This is a general folder where i store all the files, media and templates of the
 > When you have some spare time you can open this folder and move all the files in the right folders (example: if you have a university related image you can move it to the "uni_storage" folder).
 
 ---
-# Vim Motions
+## Latex
 
 ---
-# Latex Configuration
+## Workspace Layouts
+
+> To use this workflow you have to turn on the ```Workspaces plugin``` in the core-plugins settings.
+
+**Create a new workspace layout:**
+1. Presa ```cmd``` + ```p``` to open command palette.
+2. Search ```Workspace: Manage workspaces layouts```.
+3. Create and save a new workspace layout.
+
+**Load an existing layout:**
+-  Press ```cmd``` + ```r``` and choose the layout.
+
+**Save and load another layout:**
+
+If you have already opened a layout, you can: 
+- *Save it:* press ```cmd``` + ```shift``` + ```r```, than choose the layout that you have already open.
+- *Save and load a different one:* press ```cmd``` + ```shift``` + ```r```, than choose the layout that you want to open.
+
+**Example:**
+
+https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-1982-47b5-8129-8d0247f871b7
+
+---
+# Vim Motions
 
 ---
 # Theme Customisation
 
 ---
-
-
-
-
-
