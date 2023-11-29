@@ -96,7 +96,7 @@ This folder has only one rule, the notes need to be long and well written. I usu
 
 This is my main and *most important folder*, It contains other folders (subfolders), and every subfolder has is own topic.
 
->[note:]
+>[!note:]
 >I have here only groups of notes that i want to treat as separated vaults. 
 
 **Every subfolder as a precise structure:**
