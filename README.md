@@ -198,8 +198,10 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
 
 ---
 # Vim Motions
+⚒️ -- work in progress -- ⚒️
 
 ---
 # Theme Customisation
+⚒️ -- work in progress -- ⚒️
 
 ---
