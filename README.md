@@ -13,9 +13,9 @@ The vault already has all the plugins that you need to use it.
 - [Folder Organisation and Description](#Folder-Organisation-and-Description)
 - [Work-Flows](#Work-Flows)
 	- [Crating New Notes](#Crating-New-Notes)
-  	- [Workspace Layouts](#Workspace-Layouts)
   	- [Managing new notes and files](#Managing-new-notes-and-files)
-	- [Latex](#Latex)
+  	- [Workspace Layouts](#Workspace-Layouts)
+- [Latex](#Latex)
 - [Vim Motion](#Vim-Motions)
 - [Theme Customisation](#Theme-Customisation)
 
