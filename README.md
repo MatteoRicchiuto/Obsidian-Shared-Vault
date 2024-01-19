@@ -171,9 +171,6 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32
 > When you have some spare time you can open this folder and move all the files in the right folders (example: if you have a university related image you can move it to the "uni_storage" folder).
 
 ---
-## Latex
-
----
 ## Workspace Layouts
 
 > To use this workflow you have to turn on the ```Workspaces plugin``` in the core-plugins settings.
@@ -195,6 +192,10 @@ If you have already opened a layout, you can:
 **Example:**
 
 https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-1982-47b5-8129-8d0247f871b7
+
+---
+# Latex
+⚒️ -- work in progress -- ⚒️
 
 ---
 # Vim Motions
