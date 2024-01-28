@@ -1,9 +1,8 @@
 # Obsidian-Shared-Vault
-This is my obsidian repository that contains all my Uni and Coding related notes 
+**This is how I set up and use Obsidian for University and Programming note taking**
 
-If you download this repository, you will be able to open it with obsidian. 
-
-The vault already has all the plugins that you need to use it.
+- If you download this repository, you will be able to open it with Obsidian. 
+- The vault already has all the plugins that you need to use it.
 
 ---
 # Table of content
