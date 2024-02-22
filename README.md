@@ -47,7 +47,7 @@ These are my customs or frequently used hot keys.
 ---
 # Plugins
 
-These are all the **Community Plugins** that I use in my actual obsidian configuration
+These are all the **Community Plugins** that I use.
 
 |    Plugins                                | Description   | Config | Work Flow |
 | ----------------------------------------- | ------------- | --------- | --------- |
