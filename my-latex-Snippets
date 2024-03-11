@@ -1,0 +1,103 @@
+    // MY SNIPPERS (math mode)
+  
+    //Entering math mode
+    {trigger: "$", replacement: "$$0$", options: "tA"},
+    {trigger: "$", replacement: "$\n$0\n$", options: "mA"},
+
+    //Style
+    {trigger: "box", replacement: "\\boxed{$0}$1", options: "mA"},
+  
+    //Text
+    {trigger: "te", replacement: "\\text{$0}$1", options: "mA"},
+    {trigger: "tc", replacement: "\\textcolor{orange}{\\text{$0}}$1", options: "mA"},
+    {trigger: "cl", replacement: "\\textcolor{orange}{$0}$1", options: "mA"},
+    {trigger: "not", replacement: "\\not $0", options: "mA"},
+   
+    //Operation
+    {trigger: "po", replacement: "^{$0}$1", options: "mA"},
+    {trigger: "rt", replacement: "\\sqrt[$0]{$1}$2", options: "mA"},
+    {trigger: "^", replacement: "^{$0}$1", options: "mA"},
+    {trigger: "sul", replacement: "\\sum\\limits", options: "mA"},
+    {trigger: "lil", replacement: "\\lim\\limits_{ ${0:n} \\to ${1:\\infty} } $2", options: "mA"},
+
+
+    
+    //Symbols
+    {trigger: "oo", replacement: "\\infty ", options: "mA"}, 
+    {trigger: "cd", replacement: "\\cdot ", options: "mA"},
+    {trigger: "to", replacement: "\\to ", options: "mA"},
+
+    //Logic Simbols
+    {trigger: "and", replacement: "\\wedge ", options: "mA"},
+    {trigger: "or", replacement: "\\vee ", options: "mA"},
+    {trigger: "xor", replacement: "\\oplus ", options: "mA"},
+    {trigger: "ne", replacement: "\\neg ", options: "mA"},
+    {trigger: "ov", replacement: "\\overline{$0}$1", options: "mA"},
+    {trigger: "for", replacement: "\\forall $0 ", options: "mA"},
+    {trigger: "ex", replacement: "\\exists ", options: "mA"},
+    {trigger: "imp", replacement: "\\implies ", options: "mA"},
+    {trigger: "iff", replacement: "\\iff ", options: "mA"},
+    {trigger: "eq", replacement: "\\equiv ", options: "mA"},
+
+    //Set Theory
+    {trigger: "bb", replacement: "\\mathbb{$0}$1", options: "mA"},
+ 
+    {trigger: "set", replacement: "\{ $0 \}$1", options: "mA"},
+    {trigger: "sub", replacement: "\\subse t", options: "mA"},
+    {trigger: "\esub", replacement: "\\subseteq ", options: "mA"},
+    {trigger: "in", replacement: "\\in", options: "mA"},
+    {trigger: "uu", replacement: "\\cup ", options: "mA"},
+    {trigger: "nn", replacement: "\\cap ", options: "mA"},
+    {trigger: "tim", replacement: "\\times ", options: "mA"},
+    {trigger: "dif", replacement: "\\setminus ", options: "mA", priority:1},  
+    
+    //Function
+    {trigger: "fx", replacement: "f( ${0:x} )", options: "mA"},
+    {trigger: "fy", replacement: "f( ${0:y} )", options: "mA"},
+    
+
+    //Series and  succession
+    {trigger: "an", replacement: "a_{ ${0:n} }$1", options: "mA"},
+    {trigger: "sn", replacement: "S_{ ${0:n} }$1", options: "mA"},
+    
+    
+    //Derivative
+    {trigger: "fd1", replacement: "f^{'}($0)$1", options: "mA", priority:0},
+    {trigger: "fd2", replacement: "f^{''}($0)$1", options: "mA", priority:0},
+    {trigger: "1d", replacement: "^{'}$0", options: "mA"},
+    {trigger: "2d", replacement: "^{''}$0", options: "mA"},
+     {trigger: "D", replacement: "[\\left ${VISUAL} \\right]^{'}", options: "m"},
+    {trigger: "DD", replacement: "[\\left ${VISUAL} \\right]^{''}", options: "m"},
+    
+    //Visual Operations
+    {trigger: "O", replacement: "\\overline{ ${VISUAL} }", options: "m"},
+    {trigger: "BOX", replacement: "\\boxed{ ${VISUAL} }", options: "m"},
+
+    //MY SNIPSETS (text mode)
+
+    //base
+    {trigger: "info", replacement: ">[!info]", options: "t"},
+    {trigger: "tip", replacement: ">[!tip]", options: "t"},
+    {trigger: "note", replacement: ">[!note]", options: "t"},
+    {trigger: "danger", replacement: ">[!danger]", options: "t"},
+    {trigger: "warning", replacement: ">[!warning]", options: "t"},
+    {trigger: "?", replacement: ">[!question]", options: "t"},
+    
+    
+    //custom
+    {trigger: "def", replacement: ">[!note] Definition", options: "t"},
+    {trigger: "oss", replacement: ">[!warning] oss", options: "t"},
+    {trigger: "teo", replacement: ">[!danger] Teorem", options: "t"},
+    {trigger: "exx", replacement: ">[!example] Example:", options: "t"},
+    {trigger: "exs", replacement: ">[!example] Examples:", options: "t"},
+    {trigger: "to", replacement: "-->", options: "t"},  
+
+
+    // CODE
+    {trigger: "python", replacement: "```python\n$0 \n```", options: "t"},
+    {trigger: "java", replacement: "```java\n$0 \n```", options: "t"},
+    {trigger: "c", replacement: "```c\n$0 \n```", options: "t"},
+    {trigger: "cc", replacement: "```c++\n$0 \n```", options: "t"},
+    {trigger: "rust", replacement: "```rust\n$0 \n```", options: "t"},
+    
+]
