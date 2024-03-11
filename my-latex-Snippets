@@ -1,4 +1,4 @@
-    // MY SNIPPERS (math mode)
+    // My Snippets (math mode)
   
     //Entering math mode
     {trigger: "$", replacement: "$$0$", options: "tA"},
