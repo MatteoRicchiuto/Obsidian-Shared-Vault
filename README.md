@@ -11,7 +11,7 @@
 - [Plugins](#Plugins)
 - [Folder Organisation and Description](#Folder-Organisation-and-Description)
 - [Work-Flows](#Work-Flows)
-	- [Crating New Notes](#Crating-New-Notes)
+	- [Creating New Notes](#Creating-New-Notes)
   	- [Managing new notes and files](#Managing-new-notes-and-files)
   	- [Workspace Layouts](#Workspace-Layouts)
 - [Latex](#Latex)
@@ -34,7 +34,7 @@ These are my customs or frequently used hot keys.
 | ```cmd``` + ```shift``` + ```d``` |  Toggle left side bar |
 | ```cmd``` + ```r``` | Load workspace layout |
 | ```cmd``` + ```shift``` + ```r``` | Save and load workspace layout |
-| ```cmd``` + ```i``` | Toggele reading view |
+| ```cmd``` + ```i``` | Toggle reading view |
 | ```control``` + ```w``` or ```cmd``` + ```w```|  Close current tab |
 | ```control``` + ```shift``` + ```w``` |  Undo close tab |
 | ```control``` + ```shift``` + ```←``` | Navigate back  |
@@ -55,7 +55,7 @@ These are all the **Community Plugins** that I use.
 | [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) | Typesetting LaTeX math as fast as handwriting |    |  [link](#Latex-Configuration) |
 | [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers)| Adds relative line numbers to the editor |   |  |
 | [Obsidian Git](https://github.com/denolehov/obsidian-git) | Vesion control and back up your Obsidian vault using Git |  |  |
-| [Quick Add](https://github.com/chhoumann/quickadd) | Powerful combination of four tools: templates, captures, macros ... |    | [link](#Crating-New-Notes) |
+| [Quick Add](https://github.com/chhoumann/quickadd) | Powerful combination of four tools: templates, captures, macros ... |    | [link](#Crrating-New-Notes) |
 | [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) | Customisation settings for obsidian themes |    | [link](#Theme-Customization) |
 | [Tab Switcher](https://github.com/Vinzent03/tab-switcher) | alt-tab style switching between tabs   |    |   |
 
@@ -66,7 +66,7 @@ These are all the **Community Plugins** that I use.
 - **Modularity:**
 	- I want all my notes to divided in folder by category (example: university notes, Coding and technical notes, Journaling ...).
 	- This is important because i can treat them as separated vaults (example: one day i could decide to remove all my university notes from my main vault and make the in a new separate one).
-- **Easily maintainable:** Creating new notes and organising them shud be easy and fast.
+- **Easily maintainable:** Creating new notes and organising them should be easy and fast.
 
 ## Folder Structure
 **Index:**
@@ -127,7 +127,7 @@ This is a general folder where i store all the files, media and templates of the
 ---
 # Work-Flows
 
-## Crating New Notes
+## Creating New Notes
 
 > All new note, files and media are initially saved in the **To-Do** folder, and later can be sorted in the right folders.
 
@@ -160,7 +160,7 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/6dc6f184-d32
 ---
 ## Managing new notes and files
 **New Notes:**
-- As seen in [Crating New Notes](#Crating-New-Notes) all the notes created with the ```cmd``` + ```t``` hot-key are already created in the right folder so you don't have to manage them.
+- As seen in [Creating New Notes](#Creating-New-Notes) all the notes created with the ```cmd``` + ```t``` hot-key are already created in the right folder so you don't have to manage them.
 
 - If you create a note without using the ```cmd```+ ```t``` method or you have crated a random note that doesn’t fit any of your templates, it will be saved in the **To-Do Folder**.
 
