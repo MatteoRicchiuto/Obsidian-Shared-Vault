@@ -15,7 +15,6 @@
   	- [Managing new notes and files](#Managing-new-notes-and-files)
   	- [Workspace Layouts](#Workspace-Layouts)
 - [Latex](#Latex)
-- [Vim Motion](#Vim-Motions)
 - [Theme Customisation](#Theme-Customisation)
 
 ---
@@ -300,11 +299,6 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
     {trigger: "cc", replacement: "```c++\n$0 \n```", options: "t"},
     {trigger: "rust", replacement: "```rust\n$0 \n```", options: "t"},
 ```
-
----
-# Vim Motions
-⚒️ -- work in progress -- ⚒️
-
 ---
 # Theme Customisation
 ⚒️ -- work in progress -- ⚒️
