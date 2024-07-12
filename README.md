@@ -40,8 +40,6 @@ These are my customs or frequently used hot keys.
 | ```control``` + ```shift``` + ```→``` | Navigate forward |
 | ```control``` + ```tab``` | Go to the next tab  |
 | ```control``` + ```shift``` +```tab``` | Go to the previous tab  |
-| ```control``` + ```shift``` + ```←``` | Navigate back |
-| ```control``` +  ```shift``` + ```→``` | Navigate forward |
 
 ---
 # Plugins
