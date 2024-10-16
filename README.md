@@ -216,21 +216,21 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
     {trigger: "^", replacement: "^{$0}$1", options: "mA"},
     {trigger: "sul", replacement: "\\sum\\limits", options: "mA"},
     {trigger: "lil", replacement: "\\lim\\limits_{ ${0:n} \\to ${1:\\infty} } $2", options: "mA"},
-
-
+    {trigger: "bin", replacement: "\\binom{$0}{$1} $2", options: "mA", priority:1},
     
     //Symbols
     {trigger: "oo", replacement: "\\infty ", options: "mA"}, 
     {trigger: "cd", replacement: "\\cdot ", options: "mA"},
     {trigger: "to", replacement: "\\to ", options: "mA"},
+    {trigger: "ver", replacement: "\\vert ", options: "mA"},
 
     //Logic Simbols
-    {trigger: "and", replacement: "\\wedge ", options: "mA"},
-    {trigger: "or", replacement: "\\vee ", options: "mA"},
+    {trigger: "and", replacement: "\\wedge ", options: "mA", priority:1 },
+    {trigger: "or", replacement: "\\vee ", options: "mA", priority:1},
     {trigger: "xor", replacement: "\\oplus ", options: "mA"},
     {trigger: "ne", replacement: "\\neg ", options: "mA"},
     {trigger: "ov", replacement: "\\overline{$0}$1", options: "mA"},
-    {trigger: "for", replacement: "\\forall $0 ", options: "mA"},
+    {trigger: "for", replacement: "\\forall $0 ", options: "mA", priority: 1},
     {trigger: "ex", replacement: "\\exists ", options: "mA"},
     {trigger: "imp", replacement: "\\implies ", options: "mA"},
     {trigger: "iff", replacement: "\\iff ", options: "mA"},
@@ -240,23 +240,23 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
     {trigger: "bb", replacement: "\\mathbb{$0}$1", options: "mA"},
  
     {trigger: "set", replacement: "\{ $0 \}$1", options: "mA"},
-    {trigger: "sub", replacement: "\\subse t", options: "mA"},
+    {trigger: "emp", replacement: "\\emptyset ", options: "mA"},
+    {trigger: "sub", replacement: "\\subset ", options: "mA"},
     {trigger: "\esub", replacement: "\\subseteq ", options: "mA"},
     {trigger: "in", replacement: "\\in", options: "mA"},
     {trigger: "uu", replacement: "\\cup ", options: "mA"},
     {trigger: "nn", replacement: "\\cap ", options: "mA"},
     {trigger: "tim", replacement: "\\times ", options: "mA"},
     {trigger: "dif", replacement: "\\setminus ", options: "mA", priority:1},  
-    
+    {trigger: "car", replacement: "{ \\lvert $0 \\rvert } $1 ", options: "mA"},
+
     //Function
     {trigger: "fx", replacement: "f( ${0:x} )", options: "mA"},
     {trigger: "fy", replacement: "f( ${0:y} )", options: "mA"},
     
-
     //Series and  succession
-    {trigger: "an", replacement: "a_{ ${0:n} }$1", options: "mA"},
-    {trigger: "sn", replacement: "S_{ ${0:n} }$1", options: "mA"},
-    
+    //{trigger: "an", replacement: "a_{ ${0:n} }$1", options: "mA"},
+    //{trigger: "sn", replacement: "S_{ ${0:n} }$1", options: "mA"},
     
     //Derivative
     {trigger: "fd1", replacement: "f^{'}($0)$1", options: "mA", priority:0},
@@ -287,15 +287,19 @@ https://github.com/Jaxkeeper/Obsidian-Shared-Vault/assets/116072651/141ec72f-198
     {trigger: "teo", replacement: ">[!danger] Teorem", options: "t"},
     {trigger: "exx", replacement: ">[!example] Example:", options: "t"},
     {trigger: "exs", replacement: ">[!example] Examples:", options: "t"},
-    {trigger: "to", replacement: "-->", options: "t"},  
-
-
+    {trigger: "cek", replacement: ">[!check]", options: "t"},
+    {trigger: "tod", replacement: ">[!todo]", options: "t"},
+    {trigger: "col", replacement: ">[!column|flex] \n>\n>>[!NOTE]\n>>\n>>content\n>\n>>[!NOTE]\n>>\n>>content\n", options: "t"},
+    {trigger: "to", replacement: "-->", options: "t"},
+    
     // CODE
     {trigger: "python", replacement: "```python\n$0 \n```", options: "t"},
     {trigger: "java", replacement: "```java\n$0 \n```", options: "t"},
     {trigger: "c", replacement: "```c\n$0 \n```", options: "t"},
     {trigger: "cc", replacement: "```c++\n$0 \n```", options: "t"},
     {trigger: "rust", replacement: "```rust\n$0 \n```", options: "t"},
+    
+]
 ```
 ---
 # Theme Customisation
